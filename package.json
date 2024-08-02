@@ -6,7 +6,6 @@
   "scripts": {
     "start": "node index.js",
     "test": "echo \"No tests specified\" && exit 0"
-    "build": "webpack --config index.js"
   },
   "keywords": ["node", "hello", "world"],
   "author": "Your Name",
